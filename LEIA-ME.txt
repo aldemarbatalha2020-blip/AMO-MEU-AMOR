@@ -1,0 +1,8 @@
+SITE PARA NAIARA — 3 ANOS E 2 MESES
+
+Publique o CONTEÚDO desta pasta na raiz do repositório do GitHub Pages.
+O arquivo assets/musica.mp3 contém a trilha enviada pelo usuário (aproximadamente 59min36s).
+A trilha inicia ao clicar no botão de entrada e segue tocando ao navegar pelas fotos e vídeos.
+Os vídeos ficam permanentemente sem áudio. Ao final da trilha, ela recomeça.
+O navegador pode interromper o som se a página for suspensa ou fechada.
+ATENÇÃO: confira os direitos de uso e publicação das gravações musicais e dos vídeos/fotos antes de publicar publicamente.
